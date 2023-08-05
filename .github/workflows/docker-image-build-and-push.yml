@@ -24,4 +24,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: {{ secrets.DOCKERHUB_USERNAME }}/lat:latest
+          tags: jonathanleedev/lat:latest
