@@ -1,2 +1,9 @@
 db.sqlite3
 docker-comose.yml
+node_modules
+.gitignore
+.github
+package.json
+package-lock.json
+LICENSE
+README.md
